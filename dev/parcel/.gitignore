@@ -1,1 +1,6 @@
 node_modules
+
+#https://www.toptal.com/developers/gitignore/api/node
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
